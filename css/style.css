@@ -3,12 +3,20 @@
 
 /*CSS general*/
 .center-text{
-	text-align: center;
+  text-align: center;
 }
 .border{
-	border-top: 1x solid black;
-	padding-top: 10px;
-	
+  border-top: 1x solid black;
+  padding-top: 10px;
+}
+.float-left{
+  float: left;
+}
+.float-right{
+  float:right;
+}
+.clear{
+  clear: both;
 }
 /*end of CSS general*/
 
@@ -62,13 +70,13 @@
 
 /*CSS for page 1*/
 .resume-background {
-	background-color: #cce6ff;
+  background-color: #cce6ff;
 }
 #resume-outline{
-	width: 70%;
-	margin: 0 auto 5% auto;
-	padding: 1% 1% 1% 1%;
-	background-color: #ffffe6;
+  width: 70%;
+  margin: 0 auto 5% auto;
+  padding: 1% 1% 1% 1%;
+  background-color: #ffffe6;
 }
 /*End of CSS Page 1*/
 
