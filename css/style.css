@@ -5,8 +5,10 @@
 .center-text{
 	text-align: center;
 }
-.border-bottom {
-	border-bottom: 1x solid black;
+.border{
+	border-top: 1x solid black;
+	padding-top: 10px;
+	
 }
 /*end of CSS general*/
 
