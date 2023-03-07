@@ -40,13 +40,22 @@
 #main-navbar ul li a:hover {
   text-decoration: underline;
   text-decoration-color: #fff;
-  text-decoration-thickness: 5px
+  text-decoration-thickness: 3px
 }
 #onpage {
   background-color: #0066cc;
 }
 
 /*CSS for page 1*/
+.resume-background {
+	background-color: #cce6ff;
+}
+#resume-outline{
+	width: 70%;
+	margin: 0 auto 5% auto;
+	padding: 1% 1% 1% 1%;
+	background-color: 
+}
 
 /*CSS for page 2*/
 
