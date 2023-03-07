@@ -33,8 +33,7 @@
 #main-navbar ul li a {
   display: block;
   padding: 10px 20px;
-  color: #fff;
-  text-decoration: none;
+  text-decoration-color: #fff;
 }
 #main-navbar ul li a:hover {
   background-color: #0066cc;
@@ -43,7 +42,7 @@
   text-decoration-thickness: 5px
 }
 #onpage {
-  text-decoration: underline overline;
+  background-color: #0066cc;
 }
 
 /*CSS for page 1*/
