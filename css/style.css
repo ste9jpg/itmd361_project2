@@ -1,5 +1,44 @@
 /*CSS for all pages*/
+
 /*navigation bar for all three pages*/
+#main-navbar {
+  background-color: blue;
+  overflow: hidden;
+}
+#navbar-container {
+  float: left;
+  width: 100%;
+  position: relative;
+}
+#main-navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+#main-navbar ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+}
+#main-navbar ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+}
+#main-navbar ul li a:hover {
+  background-color: #000;
+}
+#onpage {
+  text-decoration: underline overline;
+}
+
 /*CSS for page 1*/
+
 /*CSS for page 2*/
+
 /*CSS for page 3*/
