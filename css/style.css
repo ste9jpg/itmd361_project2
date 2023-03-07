@@ -1,4 +1,13 @@
 /*CSS for all pages*/
+footer{
+  clear: both;
+  background-color: #6699ff;
+  overflow: hidden;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+}
+
 /*CSS for all end*/
 
 /*CSS general*/
