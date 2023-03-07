@@ -2,9 +2,12 @@
 
 /*navigation bar for all three pages*/
 #main-navbar {
+  font-family: 'Limelight', cursive;
+  font-size: 20px;
   background-color: #6699ff;
   overflow: hidden;
-  position: -webkit-sticky; /* Safari */
+  width: 100%
+  position: -webkit-sticky;
   position: sticky;
   top: 0;
 }
@@ -35,6 +38,9 @@
 }
 #main-navbar ul li a:hover {
   background-color: #0066cc;
+  text-decoration: underline;
+  text-decoration-color: #fff;
+  text-decoration-thickness: 5px
 }
 #onpage {
   text-decoration: underline overline;
