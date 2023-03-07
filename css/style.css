@@ -2,8 +2,9 @@
 
 /*navigation bar for all three pages*/
 #main-navbar {
-  font-family:font-family: 'Limelight', cursive;
+  font-family:'Limelight', cursive;
   font-size: 20px;
+  font-weight: bold;
   background-color: #6699ff;
   overflow: hidden;
   width: 100%
