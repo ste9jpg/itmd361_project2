@@ -2,8 +2,11 @@
 
 /*navigation bar for all three pages*/
 #main-navbar {
-  background-color: blue;
+  background-color: #6699ff;
   overflow: hidden;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
 }
 #navbar-container {
   float: left;
