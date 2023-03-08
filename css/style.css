@@ -118,18 +118,19 @@ footer{
   padding: 50px;
   font-family: 'Lexend Deca', sans-serif;
 }
-.column {
-  float: left;
-  width: 33.2%;
-  padding: 0 20px;
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+  }
 }
-.back {
+.card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  width: 350px;
-  height: 350px;
+  padding: 16px;
   text-align: center;
-  justify-content: space-between;
-  background-color: #e6ffe6;	
+  background-color: #f1f1f1;
+}	
 }
 .img {
   padding: 12px;
