@@ -105,6 +105,8 @@ footer{
 }
 
 .backstory {
+  max: width 600 px; 
+  margin: 0 auto;
   text-align: center;
   font-size: 2vw;
 }
