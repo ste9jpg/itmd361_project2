@@ -90,6 +90,11 @@ footer{
 /*End of CSS Page 1*/
 
 /*CSS for page 2*/
+.title {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 12vh;
+}
 /*End of CSS page 2*/
 
 /*CSS for page 3*/
