@@ -7,8 +7,6 @@ footer{
   text-align: center;
   color: #fff;
 }
-
-
 /*CSS for all end*/
 
 /*CSS general*/
@@ -143,5 +141,14 @@ footer{
   width: 640px; 
   padding: 50px;
   font-family: 'Great Vibes', sans-serif;
+}
+.general {
+  text-align: center;
+  margin: auto;
+  width: 640px; 
+  padding: 50px;
+  font-family:  'Gloock', serif;
+  font-size: 20px;
+  
 }
 /*End of CSS page 3*/
