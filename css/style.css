@@ -107,9 +107,7 @@ footer{
   width: 500px;
   height: 500 px;
   object-fit: cover;  
-  
 }
-
 .backstory { 
   text-align: center;
   font-size: 20px;
@@ -132,8 +130,12 @@ footer{
 .card img{
   max-width: 100%;
 }
-
-
+.card .text {
+  padding: 0 20px 20px;
+}
+.card:nth-child(3) {
+  width: 420px;
+}
 /*End of CSS page 2*/
 
 /*CSS for page 3*/
