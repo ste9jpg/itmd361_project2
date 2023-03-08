@@ -125,7 +125,8 @@ footer{
 }
 .back {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding: 16px;
+  width: 350px;
+  height: 350px;
   text-align: center;
   justify-content: space-between;
   background-color: #e6ffe6;	
@@ -134,7 +135,6 @@ footer{
   padding: 12px;
   width: 200px;
   height: 200px;
-
 }
 
 /*End of CSS page 2*/
