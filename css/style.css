@@ -107,6 +107,9 @@ footer{
 .backstory { 
   text-align: center;
   font-size: 20px;
+  margin: auto;
+  width: 640px; 
+  padding: 50px;
 }
 /*End of CSS page 2*/
 
