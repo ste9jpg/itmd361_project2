@@ -151,7 +151,7 @@ footer{
   font-family:  'Gloock', serif;
   font-size: 20px;
 }
-.back {
+body.home {
 	background-image: url('media/back1.jpg');
 }
 /*End of CSS page 3*/
