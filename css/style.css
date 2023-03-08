@@ -122,18 +122,23 @@ footer{
   width: 33.2%;
   padding: 0 20px;
 }
-.back{
+.back {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 16px;
   text-align: center;
   background-color: #f1f1f1;	
 }
-.img{
+.img {
   padding: 12px;
   width: 200px;
   height: 200px;
 }
-.gap {margin: 0 -5px
+.gap{margin: 0 -5px
+}
+.gap:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 /*End of CSS page 2*/
 
