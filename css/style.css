@@ -125,8 +125,7 @@ footer{
 }
 .back {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  width: 30%;
-  height: 100px;
+  padding: 16px;
   text-align: center;
   justify-content: space-between;
   background-color: #e6ffe6;	
@@ -137,13 +136,7 @@ footer{
   height: 200px;
 
 }
-.gap{margin: 0 -5px
-}
-.gap:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+
 /*End of CSS page 2*/
 
 /*CSS for page 3*/
