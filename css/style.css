@@ -134,12 +134,10 @@ footer{
   flex-wrap: wrap;
   align-items: stretch;
 }
+.card img{
+  max-width: 100%;
 }
-.img {
-  padding: 12px;
-  width: 200px;
-  height: 200px;
-}
+
 
 /*End of CSS page 2*/
 
