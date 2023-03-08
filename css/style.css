@@ -103,8 +103,8 @@ footer{
   display: block;
   margin: 0 auto;
   border-radius: 50%;
-  width: 200px;
-  height: 200 px;
+  width: 500px;
+  height: 500 px;
   object-fit: cover;  
   
 }
