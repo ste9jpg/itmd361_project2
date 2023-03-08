@@ -118,7 +118,7 @@ footer{
 }
 .cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: 
   grid-gap: 10px;
   align-items: stretch;
 }
@@ -136,4 +136,11 @@ footer{
 /*End of CSS page 2*/
 
 /*CSS for page 3*/
+.title2 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+  font-size: 2.0vw; 
+}
 /*End of CSS page 3*/
