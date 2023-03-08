@@ -91,6 +91,7 @@ footer{
 /*End of CSS Page 1*/
 
 /*CSS for page 2*/
+
 .title {
   display: flex;
   justify-content: center;
@@ -132,6 +133,7 @@ footer{
   padding: 12px;
   width: 200px;
   height: 200px;
+  justify-content: space-between;
 }
 .gap{margin: 0 -5px
 }
