@@ -97,12 +97,14 @@ footer{
   font-size: 2.0vw;
   
 }
+
 .cat4 {
   display: flex;
   justify-content: center;
-  margin-left: 1vw;
-  margin-right: 3vw;
-  width: 35vw;
+  align-items: center;
+  height: 100vh;
+  border-radius: 50%;
+  max-width: 100%
 }
 /*End of CSS page 2*/
 
