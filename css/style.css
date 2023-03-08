@@ -101,7 +101,8 @@ footer{
   border-radius: 50%;
   display: flex;
   justify-content: center;
-  align-items: center; 
+  align-items: center;  
+  max-width: 75%;  
 }
 /*End of CSS page 2*/
 
