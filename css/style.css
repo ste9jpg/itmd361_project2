@@ -94,6 +94,9 @@ footer{
   display: flex;
   justify-content: center;
   margin-bottom: 12vh;
+  font-size: 3.5vw;
+  margin-right: 1vw;
+  width: 35vw;
 }
 /*End of CSS page 2*/
 
