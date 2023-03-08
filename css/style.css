@@ -118,11 +118,6 @@ footer{
   padding: 50px;
   font-family: 'Lexend Deca', sans-serif;
 }
-.column {
-  display: flex;
-  justify-content: space-between;
-}
-
 .card {
   flex: 0 0 200px;
   margin: 10px;
