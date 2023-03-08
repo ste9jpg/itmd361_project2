@@ -102,8 +102,6 @@ footer{
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 200px;
-  width: 200px;
   border-radius: 50%;
   max-width: 100%
 }
