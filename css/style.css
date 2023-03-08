@@ -103,6 +103,7 @@ footer{
   margin-left: 1vw;
   margin-right: 3vw;
   width: 35 vw;
+  max-width: 100%;
 }
 /*End of CSS page 2*/
 
