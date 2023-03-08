@@ -100,10 +100,12 @@ footer{
 }
 
 .cat4 {
+  display: block;
+  margin: 0 auto;
   border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center; 
+  width: 200px;
+  height: 200 px;
+  object-fit: cover;  
   
 }
 
