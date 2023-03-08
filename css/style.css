@@ -119,23 +119,15 @@ footer{
   font-family: 'Lexend Deca', sans-serif;
 }
 .column {
-  float: left;
-  width: 33.2%;
-  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
 }
 
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-    display: block;
-    margin-bottom: 10px;
-  }
-}
 .back {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding: 16px;
-  text-align: center;
-  background-color: #f1f1f1;
+  width: 30%
+  heigh: 100px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  margin-right: 10px;
 }	
 }
 .img {
