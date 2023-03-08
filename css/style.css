@@ -116,29 +116,23 @@ footer{
   padding: 50px;
   font-family: 'Lexend Deca', sans-serif;
 }
-* {
-  box-sizing: border-box;
-}
-.card {
-  width: 200px;
-  margin: 10px;
-  border: 1px solid #ccc;
-  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
-}	
 .cards {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
   align-items: stretch;
 }
-.card img{
+.cards > article {
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+}
+.card > article img{
   max-width: 100%;
 }
 .card .text {
   padding: 0 20px 20px;
 }
-.card:nth-child(3) {
-  width: 420px;
-}
+
 /*End of CSS page 2*/
 
 /*CSS for page 3*/
