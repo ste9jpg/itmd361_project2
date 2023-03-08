@@ -94,6 +94,7 @@ footer{
   display: flex;
   justify-content: center;
   text-align: center;
+  font-family: 'Lexend Deca', sans-serif;
   font-size: 2.0vw; 
 }
 
@@ -101,7 +102,8 @@ footer{
   border-radius: 50%;
   display: flex;
   justify-content: center;
-  align-items: center;   
+  align-items: center; 
+  
 }
 
 .backstory { 
@@ -110,6 +112,7 @@ footer{
   margin: auto;
   width: 640px; 
   padding: 50px;
+  font-family: 'Lexend Deca', sans-serif;
 }
 /*End of CSS page 2*/
 
