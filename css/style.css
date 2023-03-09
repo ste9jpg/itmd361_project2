@@ -151,9 +151,8 @@ footer{
   text-align: center;
   margin: 30px 30px;
   width: 500px; 
+  padding-top: 25px;
   padding: 30px;
-  align-items: flex-center;
-  justify-content: center; 
   font-family:  'Gloock', serif;
   font-size: 20px;
 }
