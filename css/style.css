@@ -70,7 +70,6 @@ footer{
 #main-navbar ul li a:hover {
   text-decoration: underline;
   text-decoration-color: #fff;
-  text-decoration-thickness: 3px
 }
 #onpage {
   background-color: #0066cc;
@@ -144,6 +143,7 @@ footer{
   padding-bottom: 20px;
   font-family: 'Great Vibes', sans-serif;
   font-weight: 800;
+  text-decoration-color: #fff;
 }
 
 .general {
