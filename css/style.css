@@ -131,6 +131,7 @@ footer{
 .card {
   background-color: #99ccff;
   padding: 10px;
+  margin: 0 -5px;
 }
 .cards > article {
   border: 1px solid #ccc;
