@@ -101,6 +101,7 @@ footer{
   display: block;
   margin: 0 auto;
   border-radius: 50%;
+  border: 2px dashed white;
   width: 500px;
   height: 500 px;
   object-fit: cover;  
