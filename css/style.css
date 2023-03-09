@@ -153,11 +153,8 @@ footer{
   font-size: 20px;
 }
 #home {
-  background-image: url('Documents\itmd361_project2\media\back2.jpg');
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fbiancaherrrrr%2Flove-shack-fancy%2F&psig=AOvVaw2r5D1jIzKxwEIkgX489pxO&ust=1678418788055000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPC40LLzzf0CFQAAAAAdAAAAABAX");
   background-size: cover;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
 }
 .back1 {
   background-color: #e6f2ff;
