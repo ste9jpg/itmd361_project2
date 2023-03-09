@@ -159,15 +159,19 @@ footer{
   background-color: #e6f2ff;
   margin: 16px;
   padding: 30px;
-  content: center; 
+  content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;  
 }
-.max {
-  background-color: #e6f2ff;
-  margin: 16px;
-  padding: 30px;
-  float: right;
-  max-width: 50%;
-  height: auto;
+.back1 img{
+  margin-right: 20px;
+  height: 200px;
+  width: 300px;
+}
+.back1 p{
+  margin-left: 20px 
 }
 
 /*End of CSS page 3*/
