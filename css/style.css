@@ -157,8 +157,9 @@ footer{
 }
 .back1 {
   background-color: #e6f2ff;
-  margin: 15px;
-  padding: 20px;
+  margin: 16px;
+  padding: 30px;
+  content: center; 
 }
 .max{
   float: right;
