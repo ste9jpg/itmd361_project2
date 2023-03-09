@@ -160,5 +160,10 @@ footer{
   margin: 15px;
   padding: 20px;
 }
+.max{
+  float: right;
+  max-width: 50%;
+  height: auto;
+}
 
 /*End of CSS page 3*/
