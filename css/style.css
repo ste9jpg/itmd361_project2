@@ -38,9 +38,6 @@ footer{
   background-color: #6699ff;
   overflow: hidden;
   width: 100%
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
 }
 #navbar-container {
   float: left;
@@ -103,7 +100,7 @@ footer{
   border-radius: 50%;
   border: 10px dashed white;
   width: 500px;
-  height: 500 px;
+  height: 500px;
   object-fit: cover;
   box-sizing: border-box; 
   transition: transform 0.3s ease-in-out;
