@@ -104,7 +104,8 @@ footer{
   border: 2px dashed white;
   width: 500px;
   height: 500 px;
-  object-fit: cover;  
+  object-fit: cover;
+  box-sizing: border-box;  
 }
 .backstory { 
   text-align: center;
@@ -129,6 +130,9 @@ footer{
 }
 .card .text {
   padding: 0 20px 20px;
+}
+.backg{
+  background-color: #e6f9ff;
 }
 
 /*End of CSS page 2*/
