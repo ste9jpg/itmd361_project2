@@ -139,8 +139,9 @@ footer{
   text-align: center;
   font-size: 30px;
   margin: auto;
-  width: 500px; 
-  padding: 45px;
+  width: 800px; 
+  padding-top: 25px;
+  padding-bottom: 25px;
   font-family: 'Great Vibes', sans-serif;
   font-weight: 800;
 }
