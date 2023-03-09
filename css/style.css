@@ -161,6 +161,13 @@ footer{
   padding: 30px;
   content: center; 
 }
-
+.max {
+  background-color: #e6f2ff;
+  margin: 16px;
+  padding: 30px;
+  float: right;
+  max-width: 50%;
+  height: auto;
+}
 
 /*End of CSS page 3*/
