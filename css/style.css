@@ -143,6 +143,9 @@ footer{
   font-family: 'Great Vibes', sans-serif;
   font-weight: 800;
 }
+.title3{
+  
+}
 .general {
   text-align: center;
   margin: auto;
@@ -159,19 +162,19 @@ footer{
   background-color: #e6f2ff;
   margin: 16px;
   padding: 30px;
-  content: center;
   display: flex;
-  align-items: center;
+  align-items: flex-center;
   justify-content: center;
   text-align: center;  
 }
-.back1 img{
-  margin-right: 20px;
-  height: 200px;
-  width: 300px;
+.back1-object {
+  margin-left: 1em;
+  order: 1;
 }
-.back1 p{
-  margin-left: 20px 
+.back1-body{
+  flex: 1;
 }
-
+.back1-h {
+  margin: 0 0 .5em;
+}
 /*End of CSS page 3*/
