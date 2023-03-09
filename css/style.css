@@ -180,9 +180,11 @@ footer{
   width: 300px;
 }
 .back1-body{
+  font-family: 'Gloock', serif;
   flex: 1;
 }
 .back1-h {
+  font-family: 'Gloock', serif;
   margin: 0 0 .5em;
 }
 
