@@ -149,12 +149,12 @@ footer{
 .general {
   background-color: #d2a479;
   text-align: center;
-  margin: 30px 30px;
-  width: 500px; 
-  padding-top: 25px;
-  padding: 30px;
-  font-family:  'Gloock', serif;
+  margin: 30px auto;
+  width: 500px;
+  padding: 25px 30px;
+  font-family: 'Gloock', serif;
   font-size: 20px;
+  display: block;
 }
 #home {
   background-image: url("http://cdn.shopify.com/s/files/1/0597/0549/1612/products/ShowProductImage_aee7a8eb-1aff-4fdd-a142-8b071caa30f8.jpg?v=1662668716");
