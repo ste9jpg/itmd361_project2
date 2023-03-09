@@ -124,7 +124,7 @@ footer{
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 10px;
   align-items: stretch;
-  color: #ffcccc;
+  background-color: #ffcccc;
 }
 .cards > article {
   border: 1px solid #ccc;
